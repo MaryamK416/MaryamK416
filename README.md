@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <h1 style >
+  <h1 class= "heading" >
     Maryam Kotia
   </h1>
 </body>
