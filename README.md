@@ -1,12 +1,6 @@
-<html>
-
-
-<body>
   <h1 style="color: #c86b85">
     Maryam Kotia
   </h1>
-</body>
-    </html>
 
 <!--
 **MaryamK416/MaryamK416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
