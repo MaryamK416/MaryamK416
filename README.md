@@ -1,5 +1,6 @@
 <html>
 <head>
+  <style>
 .heading {
   color: palevioletred;
 }
@@ -10,6 +11,7 @@
   <h1 class= "heading" >
     Maryam Kotia
   </h1>
+  </style>
 </body>
     </html>
 
