@@ -1,17 +1,10 @@
 <html>
-<head>
-  <style>
-.heading {
-  color: palevioletred;
-}
-  
-</head>
+
 
 <body>
-  <h1 class= "heading" >
+  <h1 style="color: #c86b85">
     Maryam Kotia
   </h1>
-  </style>
 </body>
     </html>
 
